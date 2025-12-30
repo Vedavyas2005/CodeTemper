@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#D2042D"              # cherry red
+backgroundColor="#FFF7FA"           # sakura-tinted white
+secondaryBackgroundColor="#FFE6EE"  # soft blossom pink
+textColor="#2B2B2B"
+font="sans serif"
